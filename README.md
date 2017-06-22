@@ -1,0 +1,2 @@
+# PlaySlide
+Application for presentation
